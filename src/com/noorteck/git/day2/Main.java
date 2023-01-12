@@ -6,5 +6,10 @@ public class Main {
 		System.out.println("Git hub'");
 
 	}
+	
+	
+	public static void addtwoNumbers(int a , int b) {
+		System.out.println(a+b);
+	}
 
 }
