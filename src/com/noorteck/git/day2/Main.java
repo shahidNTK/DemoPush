@@ -11,5 +11,21 @@ public class Main {
 	public static void addtwoNumbers(int a , int b) {
 		System.out.println(a+b);
 	}
+	
+	public static void subtracttwoNumbers(int a , int b) {
+		System.out.println(a-b);
+	}
+	
+	
+	
+	// to commit new changes to the cloud
+	
+	// we have to make changes
+	// save file
+	// add to index
+	// commit 
+	// push 
+	
+	
 
 }
